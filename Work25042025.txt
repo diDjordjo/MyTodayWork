@@ -1,2 +1,2 @@
 Rad na lociranju problema sa Wifi komunikacijom - DRK
-Definicije UART linija za predstojecu verziju Bagmatika sa contactless cards   
+Definicije UART linija za predstojecu verziju Bagmatika sa contactless cards  
